@@ -34,4 +34,9 @@ if you wanna contact me join this server:
 
 https://discord.com/invite/3p9cT4ajqy
 
+credits:
+https://github.com/YYadorigi/HLSL-Decompiler hlsl decompiler from here, original code from microsoft direct 3d sdk 
+anime studio for the original disassembler (no link to avoid any potential dmca bullshit ig idfk)
+
+
 thanks to manashiku for the original idea for disassembly of compressed to binary blob
