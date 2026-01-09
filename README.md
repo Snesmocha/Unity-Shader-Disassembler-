@@ -31,6 +31,7 @@ note:
 
 if you wanna contact me join this server:
 
-discord.gg/3p9cT4ajqy
+
+https://discord.com/invite/3p9cT4ajqy
 
 thanks to manashiku for the original idea for disassembly of compressed to binary blob
