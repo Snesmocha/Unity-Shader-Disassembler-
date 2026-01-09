@@ -17,3 +17,10 @@ once the dxbc files are extracted, be sure that the shader is in the same direct
 note you WILL get a lot of shader permutations, this is normal in games such as zenless to prevent running extra code at runtime... yes it's dumb and leads to stutter in modern systems, too bad.
 
 rest instructions in python 
+
+
+if you wanna contact me join this server:
+
+discord.gg/3p9cT4ajqy
+
+thanks to manashiku for the original idea for disassembly of compressed to binary blob
